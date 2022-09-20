@@ -6,6 +6,7 @@ As it isn't reasonable for the `pyhf` dev team to expect that everyone who uses 
 
 ## Public
 
+* https://github.com/scikit-hep/cabinetry
 * https://github.com/Daniel-Noel/hep-fitting-scripts
 * https://github.com/Rupt/interval-evidence
 
@@ -14,3 +15,4 @@ As it isn't reasonable for the `pyhf` dev team to expect that everyone who uses 
 > Note that this is just by the choice of the repository owner, and not because of LHC experiment internal information.
 
 * https://gitlab.cern.ch/rles/pyfittools
+* https://gitlab.cern.ch/ekourlit/pyfits
