@@ -7,6 +7,7 @@ As it isn't reasonable for the `pyhf` dev team to expect that everyone who uses 
 ## Public
 
 * https://github.com/scikit-hep/cabinetry
+* https://github.com/masonproffitt/abcd-pyhf
 * https://github.com/SModelS/smodels
 * https://github.com/MadAnalysis/madanalysis5
 * https://github.com/Daniel-Noel/hep-fitting-scripts
