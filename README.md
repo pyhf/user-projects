@@ -22,3 +22,9 @@ As it isn't reasonable for the `pyhf` dev team to expect that everyone who uses 
 * https://gitlab.cern.ch/rles/pyfittools
 * https://gitlab.cern.ch/ekourlit/pyfits
 * https://lcginfo.cern.ch/pkg/pyhf/ (LCG Views)
+
+## Archived
+
+Projects that used `pyhf` but have since been archived or are no longer used.
+
+* https://gitlab.cern.ch/bozek/LQcombo
