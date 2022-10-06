@@ -15,6 +15,10 @@ As it isn't reasonable for the `pyhf` dev team to expect that everyone who uses 
 * https://github.com/Daniel-Noel/hep-fitting-scripts
 * https://github.com/Rupt/interval-evidence
 * https://gitlab.cern.ch/atlas/StatAnalysis
+* https://github.com/gazot/priorhf 🎓
+* https://github.com/gazot/pyhf_llh 🎓
+
+‍🎓: University student research project
 
 ## CERN Internal
 
