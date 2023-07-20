@@ -17,6 +17,7 @@ As it isn't reasonable for the `pyhf` dev team to expect that everyone who uses 
 * https://gitlab.cern.ch/atlas/StatAnalysis
 * https://github.com/gazot/priorhf 🎓
 * https://github.com/gazot/pyhf_llh 🎓
+* https://github.com/SpeysideHEP/spey-pyhf
 
 ‍🎓: University student research project
 
