@@ -18,6 +18,7 @@ As it isn't reasonable for the `pyhf` dev team to expect that everyone who uses 
 * https://github.com/gazot/priorhf 🎓
 * https://github.com/gazot/pyhf_llh 🎓
 * https://github.com/SpeysideHEP/spey-pyhf
+* https://gitlab.cern.ch/dawerner/statanabenchmark
 
 ‍🎓: University student research project
 
